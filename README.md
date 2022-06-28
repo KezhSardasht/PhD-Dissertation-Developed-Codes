@@ -15,6 +15,6 @@ The following describes how to use the code
 
 3.4 The fragility analysis is performed by running the fragility_main_file_1st_step.m and fragility_main_file_2nd_step.m.
 
-3.4 The results are created in the form of file.text in the created folder within the same directory
+3.5 The results are created in the form of file.text in the created folder within the same directory
 
 ***** FOR ANY INQUIRY PLEASE CONTACT SERDESHT@GMAIL.COM or SARDASHT.SARDAR@EMK.BME.HU
